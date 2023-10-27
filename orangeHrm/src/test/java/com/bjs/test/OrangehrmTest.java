@@ -30,7 +30,7 @@ public class OrangehrmTest {
 		Home h=new Home(d);
 		h.clickInc();
 		
-		
+		System.out.println("2nd");
 
 	}
 
